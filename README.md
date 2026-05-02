@@ -9,13 +9,6 @@ A dynamic web-based employee management system with server-side DataTable proces
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Usage](#usage)
-- [Validation Rules](#validation-rules)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
 
 ---
 
@@ -72,5 +65,3 @@ Intelligent Employee Management System is a PHP-based web application that allow
 | **HTML5/CSS3** | Structure and styling |
 
 ---
-
-## Project Structure
